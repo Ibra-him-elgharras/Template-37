@@ -138,22 +138,47 @@ body{
     border-bottom: 1px solid #eee;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* End Header */
+
+/* Start Landing */
+.landing{
+    background-image: url(../images/Val_Morobbia_2008_019.jpg);
+    background-size: cover;
+    height: calc(100vh - 64px);
+}
+
+.landing .intro-text{
+    
+}
+
+.landing .intro-text h1{
+    margin: 0;
+}
+
+.landing .intro-text p{
+    
+}
+
+
+
+/* End Landing */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
