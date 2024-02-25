@@ -23,7 +23,7 @@ body{
     padding: 0 15px;
 }
 
-/* Small */
+/* SMALL */
 
 @media (min-width: 768px) {
     .container{
